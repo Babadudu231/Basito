@@ -1,0 +1,122 @@
+span{ text-decoration: underline;}
+/********Class Selector*****/
+body{ text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 0;
+color: #40514E;}
+
+.Cloud{ width: 140px;
+position: absolute;
+left: 1000px;
+}
+
+.cloud2{ width: 140px;
+position: absolute;
+left: 300px;
+bottom: 190px;}
+
+.Numberone{ background-color: #EAF6F6;}
+
+H1{ color: #66bfbf;
+ font-weight: 800;
+font-size:5.35em;}
+
+h2{ color: #66bfbf;
+    font-size: 2em;
+    line-height: normal;
+    padding-bottom: 10px;
+}
+
+h3{ color:#11999e}
+
+p{ color: #40514E;
+line-height: 2;}
+
+.Name{position: relative;
+top: 150px;}
+
+.Mountain{ 
+    position: relative;
+    top: 140px;
+}
+
+.Profile{ width: 200px;
+padding-top: 50px;}
+
+.ME{ width: 500px;
+margin: auto;
+padding-bottom: 40px;
+line-height:2;}
+
+hr{ border: dotted  6px;
+    color: #EAF6F6;
+border-bottom: none;
+width: 2.5%;}
+
+.skills{padding-top: 50px;
+    width: 650px;
+    margin:auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 50px;
+
+}
+
+.skill-row1{ margin: 100px auto 100px auto;}
+
+
+.coding{ width: 200px;
+float: left;
+margin: 10px ;}
+
+.barbell{ width: 200px;
+    float:right;
+    margin: 10px;
+    position: relative;
+    bottom:40px;
+}
+
+.Lost{ text-align: center;}
+
+
+.contact-me{ padding:  20px 0px 50px 0px ;
+}
+
+.bottom-container{
+    padding: 40px;
+    background-color: #11999e;
+}
+
+.btn {
+    font-size:18px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#ffffff;
+    border-color:rgba(20, 211, 219, 1);
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 1px 0px 0px rgba(21, 209, 215, 1);
+    text-shadow:inset 0px 1px 0px rgba(20, 185, 186, 1);
+    background:linear-gradient(rgba(39, 138, 146, 1), rgba(123, 217, 220, 1));
+  }
+  
+  .btn:hover {
+    background: linear-gradient(rgba(123, 217, 220, 1), rgba(39, 138, 146, 1));
+  }
+
+  .Linkedin{ color: #064e50;}
+  .Linkedin:hover{ color: #EAF6F6;}
+
+  .Twitter{ color: #064e50;}
+  .Twitter:hover{ color: #EAF6F6;}
+
+.discord{ color: #064e50;}
+  .discord:hover{ color: #EAF6F6;}
+                
+   .Sign{ color: #EAF6F6;}             
+
